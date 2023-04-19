@@ -43,9 +43,20 @@ $ $1$2$3$!
 ^ ^1
 ^ ^3^2^1
 
+# Add common punctuation to the beginning
+^!
+^?
+^-
+^+
+^.
+
 # Add common punctuation to end
 $!
 $?
+$+
+$+$+
+$.
+$_
 
 # G3t 133t (just the common ones) across whole phrase
 sa@sA@
